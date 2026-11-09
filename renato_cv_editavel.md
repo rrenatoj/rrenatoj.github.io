@@ -2,7 +2,7 @@
 
 **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas** — Formado
 
-(27) 99232-3455 · <renato.j.oliveira@gmail.com> · 21 anos · São Geraldo, Serra/ES · [github.com/RenatoOJ-Dev](https://github.com/RenatoOJ-Dev)
+(27) 99232-3455 · <renato.j.olveira@gmail.com> · 21 anos · São Geraldo, Serra/ES · [github.com/rrenatoj](https://github.com/rrenatoj)
 
 <!-- SITE: adicionar aqui o link do site pessoal (GitHub Pages) quando estiver no ar -->
 
