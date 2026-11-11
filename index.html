@@ -252,6 +252,25 @@
       .hero-name .line {
         display: block;
       }
+      .hero-name .blink-o {
+        display: inline-block;
+        transform-origin: 50% 55%;
+        animation: hero-o-blink 6s cubic-bezier(0.2, 0.8, 0.2, 1) infinite;
+        will-change: transform;
+      }
+      @keyframes hero-o-blink {
+        0%,
+        90%,
+        100% {
+          transform: scaleY(1);
+        }
+        93% {
+          transform: scaleY(0.08);
+        }
+        96% {
+          transform: scaleY(1);
+        }
+      }
       .hero-name .line-red {
         color: var(--red);
       }
@@ -1450,7 +1469,9 @@
             <p class="hero-role">Desenvolvedor · Monitoramento · Redes</p>
             <h1 class="hero-name" id="hero-title">
               <span class="line">Renato</span>
-              <span class="line line-red">Oliveira</span>
+              <span class="line line-red"
+                ><span class="blink-o">O</span>liveira</span
+              >
               <span class="line line-last"
                 >de Jesus<span class="dot">.</span></span
               >
